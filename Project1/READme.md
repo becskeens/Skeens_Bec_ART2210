@@ -1,6 +1,6 @@
 <div align=center>
 
-![](https://github.com/becskeens/Skeens_Bec_ART2210/blob/master/Project%201/lorriecranor.jpeg)
+![](https://github.com/becskeens/Skeens_Bec_ART2210/blob/master/Project1/lorriecranor.jpeg)
 
 <div align=center>
   **I chose to design my portrait after this picture presented for a few reasons. I change quite a lot, seems like every year my personality changes. The woman in this image is named Lorrie and she quilted herself in a pixelated way. I believe since I change so much I should design my portrait similarly. I think pixels represent my change because the blurred look represents how I can't define myself to one self image.**
