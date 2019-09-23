@@ -1,8 +1,3 @@
-let img;
-function preload() {
-  img = loadImage('lorrie.cranor.org/blog.jpg');
-}
+<div align=center>
 
-function setup(){
-    image(img,195,258);
-}
+![]('https://github.com/becskeens/Skeens_Bec_ART2210/Project1/lorrie.cranor.org/blog.jpeg')
