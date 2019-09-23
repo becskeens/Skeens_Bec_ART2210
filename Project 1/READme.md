@@ -1,3 +1,3 @@
 <div align=center>
 
-![]('https://github.com/becskeens/Skeens_Bec_ART2210/raw/master/lorrie.cranor.jpeg)
+![](https://becskeens.github.io/Skeens_Bec_ART2210/lorrie.cranor.jpeg)
