@@ -1,7 +1,7 @@
 var img;
 
 function preload(){
-    img=loadImage("https://github.com/creativeCodingART2210Fall2019Section2/creativeCodingGitHub/raw/master/imageLink/img/motorcycletire.jpg.jpg");
+    img=loadImage("https://becskeens.github.io/Skeens_Bec_ART2210/raw/master/imageLink/img/motorcycletire.jpg.jpg");
     
 }
 
