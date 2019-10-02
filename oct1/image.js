@@ -1,7 +1,7 @@
 var img;
 
 function preload(){
-    img=loadImage("https://becskeens.github.io/Skeens_Bec_ART2210/raw/master/oct1/motorcycletire.jpg");
+    img=loadImage("https://github.com/becskeens/Skeens_Bec_ART2210/raw/master/oct1/motorcycletire.jpg");
     
 }
 
